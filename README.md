@@ -19,3 +19,6 @@ npm start
 ```
 
 Files are compiled into /src
+
+## Images
+Get free Images from Pexels [click here](https://pexels.com)
