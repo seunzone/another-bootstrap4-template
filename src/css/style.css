@@ -1,6 +1,7 @@
 body {
   padding-top: 96px;
-  font-family: "sans-serif";
+  font-family: 'Nosifer', cursive;
+  font-family: 'Saira Extra Condensed', sans-serif;
   font-weight: 300; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -15,6 +16,9 @@ h1 {
 .btn-primary {
   background-color: #e23400;
   border-color: none; }
+
+.display-1 {
+  font-family: 'Nosifer', cursive; }
 
 .navbar-inverse .navbar-brand {
   font-family: "cursive";
@@ -32,3 +36,8 @@ h1 {
   background-position: bottom center;
   padding-top: 20vh;
   padding-bottom: 20vh; }
+
+.about-title {
+  background: url(../../img/gov.jpg);
+  background-size: cover;
+  background-position: center; }

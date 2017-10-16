@@ -1,7 +1,7 @@
 body{
     padding-top: 96px;
-    font-family: $sans;
-    
+    font-family: 'Nosifer', cursive;
+    font-family: 'Saira Extra Condensed', sans-serif;
     font-weight: $light;
 }
 
@@ -19,4 +19,8 @@ h1{
 .btn-primary{
     background-color: #e23400;
     border-color: none;
+}
+
+.display-1{
+    font-family: 'Nosifer', cursive;
 }
