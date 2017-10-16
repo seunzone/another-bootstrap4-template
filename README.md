@@ -22,3 +22,6 @@ Files are compiled into /src
 
 ## Images
 Get free Images from Pexels [click here](https://pexels.com)
+
+## Major Changes in the node-modules files
+dropping soon, watch this space
