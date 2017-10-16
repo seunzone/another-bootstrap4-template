@@ -12,6 +12,10 @@ h1 {
 .lead {
   margin-bottom: 1.5em; }
 
+.btn-primary {
+  background-color: #e23400;
+  border-color: none; }
+
 .navbar-inverse .navbar-brand {
   font-family: "cursive";
   color: #e23400;

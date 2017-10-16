@@ -1,0 +1,24 @@
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+// without modifying source files.
+$white: #fff;
+$blue:   #e23400;
+$red:    #e23400;
+$black:  #1f1f1f;
+$gray: #2d2d2d;
+
+$brand-primary: $blue;
+
+$enable-rounded: false;
+
+$body-bg:       $black;
+$body-color:    $white;
+
+$display1-size: 15vmin;
+
+$font-size-base: 1.6rem;
+
+$btn-padding-y: .7em;
+$btn-padding-x: 2em;
+
